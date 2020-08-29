@@ -23,8 +23,10 @@ We can use this application to calculate monthly budget on the basis of our inco
 ## Have a Look
 
 ```
-Click below link to use the Budget-Counter App
+Click any one of the below links to use the Budget-Counter App
 ```
-* [Budget-Counter](https://iamajaykharat.github.io/Budget-Counter-App/)
+* [budgetcounter.netlify.app](https://budgetcounter.netlify.app/) 
+Or
+* [Budget-Counter-App](https://iamajaykharat.github.io/Budget-Counter-App/)
 
 
