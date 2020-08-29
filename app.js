@@ -67,7 +67,7 @@ var budgetController = (function(){
       
         
         //Adding items to our data structure through function constructors
-        addItem:function(type,des,val){   
+        addItem: function(type,des,val){   
             var newItem, ID;  
             
             //Creating id for each item
@@ -158,7 +158,7 @@ var budgetController = (function(){
         
         
         //For testing purpose
-        testing:function(){
+        testing: function(){
             console.log(data);
         }
     };   
